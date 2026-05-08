@@ -1,10 +1,6 @@
 # Hi there, I'm Nguyễn Quang Kính 👋
 ### Software Engineering Student 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Portfolio&fontSize=50" />
-</p>
-
 ## 🚀 Tech Stack & Tools
 
 ### Backend & Mobile
