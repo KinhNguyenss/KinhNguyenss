@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nguy%E1%BB%85n%20Quang%20K%C3%ADnh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering&descSize=18&descAlignY=55&textBg=false"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - Full Stack Developer
