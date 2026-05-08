@@ -6,6 +6,7 @@
 </p>
 
 ## 🚀 Tech Stack & Tools
+
 ### Backend & Mobile
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
@@ -19,7 +20,7 @@
 ### Database & Cloud Services
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-[cite_start]![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ### Support Tools
@@ -28,5 +29,4 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
 
 ## 📫 Connect with me
-![Email](https://img.shields.io/badge/Email-kinhnguyen.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kinhnguyen.dev@gmail.com) 
-*Last updated: May 2026*
+[![Email](https://img.shields.io/badge/Email-kinhnguyen.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kinhnguyen.dev@gmail.com)
